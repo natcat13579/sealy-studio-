@@ -604,6 +604,9 @@
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProGrids">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -612,6 +615,9 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProGrids.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -631,11 +637,23 @@
     <Reference Include="Unity.CollabProxy.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
@@ -649,39 +667,23 @@
     <Reference Include="UnityEditor.UI">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ProGrids">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    <Reference Include="Unity.ProBuilder">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ProGrids.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+    <Reference Include="Unity.ProBuilder.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{c8fbdd9d-b39c-f25b-67d7-87efe92dadfa}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{2b65e7d3-b4e2-562d-2fd4-0aa200be4c2b}</Project>
       <Name>Assembly-CSharp</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{bca32bfb-2982-db07-82eb-a13c58ef5168}</Project>
-      <Name>Assembly-CSharp-Editor-firstpass</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
