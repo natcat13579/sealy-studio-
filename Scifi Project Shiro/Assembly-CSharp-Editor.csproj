@@ -36,7 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\EffectExamples\Shared\Ramps\Editor\RampAssetEditor.cs" />
+     <Compile Include="Assets\URP\EffectExamples\Shared\Ramps\Editor\RampAssetEditor.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -610,8 +610,17 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
@@ -655,6 +664,9 @@
     <Reference Include="Unity.2D.Tilemap.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
@@ -666,18 +678,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>D:/Users/clark_wdxoxdy/OneDrive/Documents/Git/GitHub/sealy-studio-/Scifi Project Shiro/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
